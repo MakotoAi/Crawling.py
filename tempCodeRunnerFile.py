@@ -1,0 +1,1 @@
+# #__next > main > div > div.ipc-page-content-container.ipc-page-content-container--center > section > div > div.ipc-page-grid.ipc-page-grid--bias-left > div > ul > li:nth-child(2) > div.ipc-metadata-list-summary-item__c > div > div > span > div > span

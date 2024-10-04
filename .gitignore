@@ -1,0 +1,13 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan cache Python
+__pycache__/
+
+# Abaikan file .pyc
+*.pyc
+*.pyo
+
+# Abaikan file log atau database sementara
+*.log
+*.sqlite3
