@@ -1,1 +1,1 @@
-﻿# mari kita belajar pemrograman menggunakan bahasa python 
+﻿# Mari kita belajar pemrograman menggunakan bahasa python
